@@ -7,6 +7,11 @@
     <Company>DIPTEAM</Company>
     <Copyright>DIPTEAM ©  2017</Copyright>
     <Description>Api.ai .NET library. More information about API.AI natural language processing API on site http://api.ai/</Description>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>ApiAi.snk</AssemblyOriginatorKeyFile>
+    <AssemblyVersion>1.1.2.6884</AssemblyVersion>
+    <FileVersion>1.1.2.6884</FileVersion>
+    <DelaySign>false</DelaySign>
   </PropertyGroup>
 
   <ItemGroup>
