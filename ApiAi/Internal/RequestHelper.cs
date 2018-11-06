@@ -135,7 +135,7 @@ namespace ApiAi.Internal
             }
 
             if (string.IsNullOrWhiteSpace(result))
-                throw new OperationCanceledException("Requred token is not specifed");
+                throw new OperationCanceledException("Required token is not specifed");
 
             return result;
         }
